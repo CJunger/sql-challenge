@@ -1,17 +1,21 @@
 # SQL-Challenge
 ## SQL Challenge for DA Bootcamp
-"It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+"It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the 
+company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
-For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively."
+For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll 
+perform data modeling, data engineering, and data analysis, respectively."
 
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis. The deliverables are an image file of your ERD, a .sql file of your table schemata and .sql file of your queries.
+This Challenge is divided into three parts: data modeling, data engineering, and data analysis. The deliverables are an image file of your ERD, a .sql file of your table schemata and 
+.sql file of your queries.
 
 (Optional) Create a Jupyter notebook of the bonus analysis. 
 
 ### Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
-![image](https://github.com/CJunger/sql-challenge/assets/131617662/429506f8-6b17-4569-8883-4f168d25ab22)
+![image](https://github.com/CJunger/sql-challenge/assets/131617662/b1786e06-4c7a-4d5f-b591-200e4fe2984f)
+
 https://app.quickdatabasediagrams.com/#/d/qU1D5x
 
 ### Data Engineering
