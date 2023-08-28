@@ -14,7 +14,8 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 ### Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
-![image](https://github.com/CJunger/sql-challenge/assets/131617662/88d8f979-3390-43b7-bb19-0afb0115aa32)
+![image](https://github.com/CJunger/sql-challenge/assets/131617662/28f89f1c-ec9c-49cd-bf59-4c4655c4ec41)
+
 
 https://app.quickdatabasediagrams.com/#/d/qU1D5x
 
