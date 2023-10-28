@@ -1,5 +1,4 @@
 # SQL-Challenge
-## SQL Challenge for DA Bootcamp
 "It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the 
 company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
@@ -9,7 +8,6 @@ perform data modeling, data engineering, and data analysis, respectively."
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis. The deliverables are an image file of your ERD, a .sql file of your table schemata and 
 .sql file of your queries.
 
-(Optional) Create a Jupyter notebook of the bonus analysis. 
 
 ### Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
